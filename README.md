@@ -1,1 +1,1 @@
-# Interest-rate
+# Interest rate calculator
